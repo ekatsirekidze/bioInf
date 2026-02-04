@@ -1,0 +1,17 @@
+sample_id,donor,group,condition
+GSM2473337,28766,non_asthma,budesonide
+GSM2473338,28767,non_asthma,vehicle
+GSM2473340,28769,non_asthma,budesonide
+GSM2473341,28770,non_asthma,budesonide
+GSM2473342,28771,non_asthma,vehicle
+GSM2473343,28772,non_asthma,vehicle
+GSM2473349,28778,non_asthma,budesonide
+GSM2473351,28781,non_asthma,budesonide
+GSM2473352,28783,non_asthma,vehicle
+GSM2473353,28784,non_asthma,vehicle
+GSM2473359,28790,non_asthma,budesonide
+GSM2473360,28791,non_asthma,vehicle
+GSM2473362,28793,non_asthma,budesonide
+GSM2473363,28794,non_asthma,budesonide
+GSM2473364,28795,non_asthma,vehicle
+GSM2473365,28796,non_asthma,vehicle
