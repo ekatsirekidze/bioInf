@@ -1,4 +1,4 @@
-# bioInformatics
+# bioinformatics
 Final Project Of Bioinformatics Ekaterine Tsirekidze
 
 Reproducibility of Glucocorticoid-Induced Differential Gene Expression Using Older and Newer RNA-seq Data
